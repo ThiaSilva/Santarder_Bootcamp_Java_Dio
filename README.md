@@ -10,9 +10,9 @@ Desafios de código:
 
 Desafios de projeto:
 
-<a href=““> Conta Banco </a>
+<a href=“https://github.com/ThiaSilva/Santarder_Bootcamp_Java_Dio/tree/main/Desafios%20de%20Projeto/ContaBanco“> Conta Banco </a>
 <br>
-<a href=“"> Controle de Fluxo </a>
+<a href=“https://github.com/ThiaSilva/Santarder_Bootcamp_Java_Dio/tree/main/Desafios%20de%20Projeto/DesafioControleFluxo“> Controle de Fluxo </a>
 <br>
-<a href=““> Processo Seletivo </a>
+<a href=“https://github.com/ThiaSilva/Santarder_Bootcamp_Java_Dio/tree/main/Desafios%20de%20Projeto/Processo_Seletivo“> Processo Seletivo </a>
 <br>
