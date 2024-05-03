@@ -7,4 +7,9 @@ Fundamentos:
 
 Desafios de código:
 
+
 Desafios de projeto:
+
+<a href=“http://exemplo.com/“> Conta Banco </a>
+<a href=“http://exemplo.com/“> Controle de Fluxo </a>
+<a href=“http://exemplo.com/“> Processo Seletivo </a>
